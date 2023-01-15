@@ -1,8 +1,7 @@
 name: Java CI
 
 on:
-  push: [main]
-
+  push: [ main ]
 
 
 jobs:
